@@ -44,7 +44,7 @@
 	  template-including-parent:: false
 		- time-complexity:: 
 		  space-complexity:: 
-		  algorithm:: 
+		  algorithms:: 
 		  highlight:: 
 		  difficulty:: 
 		  problem-src::

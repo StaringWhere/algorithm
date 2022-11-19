@@ -224,7 +224,7 @@
  ;; Enable all your properties to have corresponding pages
  :property-pages/enabled? true
  :feature/enable-journals? false
- :default-home {:page "Algorithm"}
+ :default-home {:page "Algorithms"}
  :publishing/all-pages-public? true
 
  ;; Properties to exclude from having property pages
