@@ -2,11 +2,14 @@
 - https://github.com/azl397985856/leetcode
 - https://github.com/halfrost/LeetCode-Go
 - https://leetcode-solution.cn/91?tab=agenda
+- https://github.com/haoel/leetcode
 - Leetcode
+	- [[1. Two Sum]]
 	- [[15. 3Sum]]
 	- [[513. Find Bottom Left Tree Value]]
 	- [[297. Serialize and Deserialize Binary Tree]]
 	- [[987. Vertical Order Traversal of a Binary Tree]]
+	- [[4. Median of Two Sorted Arrays]]
 	- Array
 		- No.1 Two Sum
 			- **map**
@@ -44,7 +47,7 @@
 	  template-including-parent:: false
 		- time-complexity:: 
 		  space-complexity:: 
-		  algorithms:: 
+		  algorithm:: 
 		  highlight:: 
 		  difficulty:: 
 		  problem-src::
