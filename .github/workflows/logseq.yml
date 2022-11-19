@@ -27,8 +27,6 @@ jobs:
       
       - name: Logseq Publish 🚩
         uses: pengx17/logseq-publish@0.1.7
-        with:
-          theme: woz
         
       - name: add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
