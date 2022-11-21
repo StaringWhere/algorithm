@@ -1,5 +1,4 @@
 - LeetCode repositories
-  collapsed:: true
 	- https://github.com/wisdompeak/LeetCode
 	- https://github.com/azl397985856/leetcode
 	- https://github.com/halfrost/LeetCode-Go
@@ -28,6 +27,7 @@
 	- [[987. Vertical Order Traversal of a Binary Tree]]
 	- [[4. Median of Two Sorted Arrays]]
 	- [[347. Top K Frequent Elements]]
+	- [[447. Number of Boomerangs]]
 - Data structure
   collapsed:: true
 	- Operation
@@ -76,8 +76,13 @@
   id:: 6379c50d-9d58-43cd-b674-8ce3b2db0208
   collapsed:: true
 	- Master Theorem
+- Tricks
+  collapsed:: true
+	- Don't sqrt when calculating distance.
 - {{query (page-property algorithm)}}
   query-properties:: [:page :time-complexity :space-complexity :algorithm :difficulty :problem-src :created-at :updated-at :highlight]
+  query-sort-by:: created-at
+  query-sort-desc:: true
 -
 - Template Page
   collapsed:: true
