@@ -13,7 +13,6 @@
 	- C++11 edition of Effective C++
 	- Introduction to Algorithms
 - LeetCode
-  collapsed:: true
 	- [[1. Two Sum]]
 	- [[2. Add Two Numbers]]
 	- [[136.  Single Number]]
@@ -28,6 +27,7 @@
 	- [[4. Median of Two Sorted Arrays]]
 	- [[347. Top K Frequent Elements]]
 	- [[447. Number of Boomerangs]]
+	- [[3. Longest Substring Without Repeating Characters]]
 - Data structure
   collapsed:: true
 	- Operation
