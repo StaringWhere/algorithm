@@ -28,6 +28,7 @@
 	- [[347. Top K Frequent Elements]]
 	- [[447. Number of Boomerangs]]
 	- [[3. Longest Substring Without Repeating Characters]]
+	- [[30. Substring with Concatenation of All Words]]
 - Data structure
   collapsed:: true
 	- Operation
@@ -77,8 +78,8 @@
   collapsed:: true
 	- Master Theorem
 - Tricks
-  collapsed:: true
 	- Don't sqrt when calculating distance.
+	- Sliding window: notice at the end
 - {{query (page-property algorithm)}}
   query-properties:: [:page :time-complexity :space-complexity :algorithm :difficulty :problem-src :created-at :updated-at :highlight]
   query-sort-by:: created-at
