@@ -43,6 +43,9 @@
  {:block/name "513. find bottom left tree value",
   :block/created-at 1668769816892,
   :block/updated-at 1668843493038}
+ {:block/name "974. subarray sums divisible by k",
+  :block/created-at 1669258604983,
+  :block/updated-at 1669258914248}
  {:block/name "987. vertical order traversal of a binary tree",
   :block/created-at 1668769816895,
   :block/updated-at 1669112187958}
@@ -54,7 +57,7 @@
   :block/updated-at 1668843465736}
  {:block/name "algorithms",
   :block/created-at 1668769816581,
-  :block/updated-at 1669167170772}
+  :block/updated-at 1669258604983}
  {:block/name "attention is all you need",
   :block/created-at 1669170891735,
   :block/updated-at 1669170891735}

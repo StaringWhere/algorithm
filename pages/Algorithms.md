@@ -79,8 +79,17 @@
   collapsed:: true
 	- Master Theorem
 - Tricks
+  collapsed:: true
 	- Don't sqrt when calculating distance.
-	- Sliding window: notice at the end
+	- Sliding window
+	  collapsed:: true
+		- store the position of occurrence.
+			- Check validity by comparing position and start position.
+			- Solve duplicatation by queue.
+		- store the time of occurrence.
+			- Check validity by comparing the time of occurrence with its maximum, and reduce the time of occurrence when start changes using a while loop.
+			- Solve duplication naturally.
+		- check one more time at the end
 - {{query (page-property algorithm)}}
   query-properties:: [:page :time-complexity :space-complexity :algorithm :difficulty :problem-src :created-at :updated-at :highlight]
   query-sort-by:: created-at
