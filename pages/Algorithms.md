@@ -30,6 +30,8 @@
 	- [[3. Longest Substring Without Repeating Characters]]
 	- [[30. Substring with Concatenation of All Words]]
 	- [[974. Subarray Sums Divisible by K]]
+	- [[876. Middle of the Linked List]]
+	- [[49. Group Anagrams]]
 - Data structure
   collapsed:: true
 	- Operation
