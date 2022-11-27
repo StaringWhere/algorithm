@@ -32,6 +32,8 @@
 	- [[974. Subarray Sums Divisible by K]]
 	- [[876. Middle of the Linked List]]
 	- [[49. Group Anagrams]]
+	- [[35. Search Insert Position]]
+	- [[220. Contains Duplicate III]]
 - Data structure
   collapsed:: true
 	- Operation

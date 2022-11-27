@@ -19,6 +19,9 @@
  {:block/name "217. contains duplicate",
   :block/created-at 1668925456123,
   :block/updated-at 1669112167091}
+ {:block/name "220. contains duplicate iii",
+  :block/created-at 1669522985037,
+  :block/updated-at 1669523138432}
  {:block/name "26. remove duplicates from sorted array",
   :block/created-at 1668925417499,
   :block/updated-at 1668926527341}
@@ -34,6 +37,9 @@
  {:block/name "347. top k frequent elements",
   :block/created-at 1668922705909,
   :block/updated-at 1669112178072}
+ {:block/name "35. search insert position",
+  :block/created-at 1669518451966,
+  :block/updated-at 1669518563264}
  {:block/name "4. median of two sorted arrays",
   :block/created-at 1668863859518,
   :block/updated-at 1668922445103}
@@ -63,7 +69,7 @@
   :block/updated-at 1668843465736}
  {:block/name "algorithms",
   :block/created-at 1668769816581,
-  :block/updated-at 1669431992712}
+  :block/updated-at 1669522985038}
  {:block/name "attention is all you need",
   :block/created-at 1669170891735,
   :block/updated-at 1669170891735}
