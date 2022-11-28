@@ -34,6 +34,10 @@
 	- [[49. Group Anagrams]]
 	- [[35. Search Insert Position]]
 	- [[220. Contains Duplicate III]]
+	- [[239. Sliding Window Maximum]]
+- Questions
+	- Check reusing
+	- What is useless
 - Data structure
   collapsed:: true
 	- Operation
@@ -62,7 +66,6 @@
 	- Priority queue
 	- Heap
 - Algorithm
-  collapsed:: true
 	- Divide and Conquer
 	- Order related
 		- Any finite (bounded and discrete) problem, map can be used to make it O(N)
@@ -73,20 +76,19 @@
 		- Unbounded sort
 			- Bubble
 			- Quick sort
-		- Partition algorithm: to define the correct position of an element.
+		- Partition algorithm
 			- Lomuto's Partition Scheme (works with duplicates)
 - Problem
-  collapsed:: true
 	- Median -> Kth problem
+	- Maximum / Minimum
+		- Sliding Window
+			- Monotonic Queue
 - Complexity
   id:: 6379c50d-9d58-43cd-b674-8ce3b2db0208
-  collapsed:: true
 	- Master Theorem
 - Tricks
-  collapsed:: true
 	- Don't sqrt when calculating distance.
 	- Sliding window
-	  collapsed:: true
 		- store the position of occurrence.
 			- Check validity by comparing position and start position.
 			- Solve duplicatation by queue.
@@ -94,8 +96,8 @@
 			- Check validity by comparing the time of occurrence with its maximum, and reduce the time of occurrence when start changes using a while loop.
 			- Solve duplication naturally.
 		- check one more time at the end
-- {{query (page-property algorithm)}}
-  query-properties:: [:page :time-complexity :space-complexity :algorithm :difficulty :problem-src :created-at :updated-at :highlight]
+- [[list]]
+- query-properties:: [:page :time-complexity :space-complexity :algorithm :difficulty :problem-src :created-at :updated-at :highlight]
   query-sort-by:: created-at
   query-sort-desc:: true
 -
