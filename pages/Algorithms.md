@@ -35,6 +35,7 @@
 	- [[35. Search Insert Position]]
 	- [[220. Contains Duplicate III]]
 	- [[239. Sliding Window Maximum]]
+	- [[997. Find the Town Judge]]
 - Questions
 	- Check reusing
 	- What is useless
