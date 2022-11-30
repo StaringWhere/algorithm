@@ -5,7 +5,6 @@
 	- https://leetcode-solution.cn/91?tab=agenda
 	- https://github.com/haoel/leetcode
 - Books
-  collapsed:: true
 	- http://jeffe.cs.illinois.edu/teaching/algorithms/
 	- https://algs4.cs.princeton.edu/home/
 	- The Algorithm Design Manual by Steven S. Skiena.pdf
@@ -36,13 +35,13 @@
 	- [[220. Contains Duplicate III]]
 	- [[239. Sliding Window Maximum]]
 	- [[997. Find the Town Judge]]
+	- [[886. Possible Bipartition]]
 - Questions
 	- Check reusing
 	- What is useless
 - Data structure
   collapsed:: true
 	- Operation
-	  collapsed:: true
 		- Build
 		- Add
 		- Delete
@@ -66,6 +65,8 @@
 	- Queue
 	- Priority queue
 	- Heap
+	- Monotonic Queue
+	- [[Disjoint Set]]
 - Algorithm
 	- Divide and Conquer
 	- Order related
