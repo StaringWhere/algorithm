@@ -36,11 +36,12 @@
 	- [[239. Sliding Window Maximum]]
 	- [[997. Find the Town Judge]]
 	- [[886. Possible Bipartition]]
+	- [[1203. Sort Items by Groups Respecting Dependencies]]
+	- [[657. Robot Return to Origin]]
 - Questions
 	- Check reusing
 	- What is useless
 - Data structure
-  collapsed:: true
 	- Operation
 		- Build
 		- Add
@@ -67,6 +68,7 @@
 	- Heap
 	- Monotonic Queue
 	- [[Disjoint Set]]
+	- Graph
 - Algorithm
 	- Divide and Conquer
 	- Order related
@@ -80,6 +82,7 @@
 			- Quick sort
 		- Partition algorithm
 			- Lomuto's Partition Scheme (works with duplicates)
+		- [[Topological Sort]]
 - Problem
 	- Median -> Kth problem
 	- Maximum / Minimum
