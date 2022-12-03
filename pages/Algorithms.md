@@ -38,6 +38,7 @@
 	- [[886. Possible Bipartition]]
 	- [[1203. Sort Items by Groups Respecting Dependencies]]
 	- [[657. Robot Return to Origin]]
+	- [[1834. Single-Threaded CPU]]
 - Questions
 	- Check reusing
 	- What is useless
