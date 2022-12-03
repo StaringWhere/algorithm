@@ -13,6 +13,9 @@
  {:block/name "15. 3sum",
   :block/created-at 1668769816891,
   :block/updated-at 1668843465740}
+ {:block/name "1834. single-threaded cpu",
+  :block/created-at 1670062497035,
+  :block/updated-at 1670069522599}
  {:block/name "189. rotate array",
   :block/created-at 1668925444949,
   :block/updated-at 1668926341329}
@@ -84,7 +87,7 @@
   :block/updated-at 1668843465736}
  {:block/name "algorithms",
   :block/created-at 1668769816581,
-  :block/updated-at 1669962800051}
+  :block/updated-at 1670062497038}
  {:block/name "attention is all you need",
   :block/created-at 1669170891735,
   :block/updated-at 1669170891735}
