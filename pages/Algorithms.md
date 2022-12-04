@@ -39,6 +39,7 @@
 	- [[1203. Sort Items by Groups Respecting Dependencies]]
 	- [[657. Robot Return to Origin]]
 	- [[1834. Single-Threaded CPU]]
+	- [[1904. The Number of Full Rounds You Have Played]]
 - Questions
 	- Check reusing
 	- What is useless
