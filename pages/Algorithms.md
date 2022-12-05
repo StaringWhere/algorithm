@@ -40,6 +40,7 @@
 	- [[657. Robot Return to Origin]]
 	- [[1834. Single-Threaded CPU]]
 	- [[1904. The Number of Full Rounds You Have Played]]
+	- [[1737. Change Minimum Characters to Satisfy One of Three Conditions]]
 - Questions
 	- Check reusing
 	- What is useless
@@ -90,6 +91,9 @@
 	- Maximum / Minimum
 		- Sliding Window
 			- Monotonic Queue
+	- Let one array less than another
+		- Find a split line
+	- Try to find some absolute object
 - Complexity
   id:: 6379c50d-9d58-43cd-b674-8ce3b2db0208
 	- Master Theorem
