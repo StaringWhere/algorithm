@@ -1,10 +1,12 @@
 - LeetCode repositories
+  collapsed:: true
 	- https://github.com/wisdompeak/LeetCode
 	- https://github.com/azl397985856/leetcode
 	- https://github.com/halfrost/LeetCode-Go
 	- https://leetcode-solution.cn/91?tab=agenda
 	- https://github.com/haoel/leetcode
 - Books
+  collapsed:: true
 	- http://jeffe.cs.illinois.edu/teaching/algorithms/
 	- https://algs4.cs.princeton.edu/home/
 	- The Algorithm Design Manual by Steven S. Skiena.pdf
@@ -41,10 +43,13 @@
 	- [[1834. Single-Threaded CPU]]
 	- [[1904. The Number of Full Rounds You Have Played]]
 	- [[1737. Change Minimum Characters to Satisfy One of Three Conditions]]
+	- [[912. Sort an Array]]
+	- [[69. Sqrt(x)]]
 - Questions
 	- Check reusing
 	- What is useless
 - Data structure
+  collapsed:: true
 	- Operation
 		- Build
 		- Add
@@ -81,10 +86,14 @@
 			- Quick select (Hoare's selection algorithm)
 			  id:: 6379b95e-8f08-47ef-96e2-893f4041d48c
 		- Unbounded sort
-			- Bubble
-			- Quick sort
+			- |Name|Best|Average|Worst|Memory|Stable|Method|
+			  |--|--|--|--|--|--|--|
+			  |[[Quick Sort]]|O(nlogn)|O(nlogn)|O(n^2)|O(logn)|No|Partitioning|
+			  |[[Heap Sort]]|O(nlogn)|O(nlogn)|O(nlogn)|O(1)|No|Selection|
+			  |[[Merge Sort]]|O(nlogn)|O(nlogn)|O(nlogn)|O(n)|Yes|Merging|
 		- Partition algorithm
 			- Lomuto's Partition Scheme (works with duplicates)
+			- Hoare’s Partition Scheme (works with duplicates)
 		- [[Topological Sort]]
 - Problem
 	- Median -> Kth problem
@@ -107,6 +116,7 @@
 			- Check validity by comparing the time of occurrence with its maximum, and reduce the time of occurrence when start changes using a while loop.
 			- Solve duplication naturally.
 		- check one more time at the end
+	- `while(something) do i++` maybe i will not move.
 - [[list]]
 - query-properties:: [:page :time-complexity :space-complexity :algorithm :difficulty :problem-src :created-at :updated-at :highlight]
   query-sort-by:: created-at
