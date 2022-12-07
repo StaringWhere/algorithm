@@ -1,5 +1,4 @@
 - LeetCode repositories
-  collapsed:: true
 	- https://github.com/wisdompeak/LeetCode
 	- https://github.com/azl397985856/leetcode
 	- https://github.com/halfrost/LeetCode-Go
@@ -45,6 +44,7 @@
 	- [[1737. Change Minimum Characters to Satisfy One of Three Conditions]]
 	- [[912. Sort an Array]]
 	- [[69. Sqrt(x)]]
+	- [[278. First Bad Version]]
 - Questions
 	- Check reusing
 	- What is useless
